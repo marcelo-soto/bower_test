@@ -1,0 +1,10 @@
+{
+  "name": "dsl-generated dependencies",
+  "dependencies": {
+    "semantic-ui": "latest",
+    "react": "latest",
+    "fluxxor": "latest",
+    "moment": "latest",
+    "underscore": "latest"
+  }
+}
